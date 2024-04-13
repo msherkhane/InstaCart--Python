@@ -14,3 +14,14 @@ In this assignment, I assume the position of an analyst at Instacart to investig
 ''*'' Which product departments are most popular?
 
 "*" How do customer demographics and behaviors vary in terms of brand loyalty, regional differences, and purchasing patterns?
+## Tools
+
+* Pandas: for data analysis
+
+* Numpy: for mathematical equations
+
+* Seaborn: for data visualizations
+
+* Matplotlib: for data visualizations
+
+* SciPy: for mathematical equations
